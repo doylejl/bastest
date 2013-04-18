@@ -1,0 +1,10 @@
+
+w-------. 1 doylejl     500   18 Feb 18 15:59 .bash_history
+-rw-r--r--. 1 doylejl     500   18 Apr 23  2012 .bash_logout
+-rw-r--r--. 1 doylejl     500  176 Apr 23  2012 .bash_profile
+-rw-r--r--. 1 doylejl     500  124 Apr 23  2012 .bashrc
+drwxrwxr-x. 7 doylejl doylejl 4096 Apr 18 11:51 .git
+drwxr-xr-x. 2 doylejl     500 4096 Jul 14  2010 .gnome2
+drwxr-xr-x. 4 doylejl     500 4096 Feb 18 15:06 .mozilla
+drwx------. 2 doylejl doylejl 4096 Apr 18 11:48 .ssh
+-rw-------. 1 doylejl     500    0 Feb 18 15:56 .Xauthorit
